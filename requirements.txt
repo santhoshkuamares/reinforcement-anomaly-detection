@@ -1,0 +1,4 @@
+1. Python 3.8+
+2. pandas, numpy, matplotlib, seaborn
+3. scikit-learn
+4. PyTorch
