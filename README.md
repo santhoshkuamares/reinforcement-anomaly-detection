@@ -22,11 +22,6 @@ cd RL-for-Anomaly-Detection
 2. Install dependencies: pip install -r requirements.txt
 3. Run the notebook or script: python rl_anomaly_detection.py
 
-Requirements:
-1. Python 3.8+
-2. pandas, numpy, matplotlib, seaborn
-3. scikit-learn
-4. PyTorch
 
 References
 
