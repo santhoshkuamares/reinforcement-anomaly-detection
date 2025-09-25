@@ -1,8 +1,8 @@
 RL-for-Anomaly-Detection
 Project Overview:
 
-This project applies Reinforcement Learning (RL) to anomaly detection in industrial machine data.
-Using the AI4I 2020 Predictive Maintenance Dataset, the goal is to detect rare machine failures more effectively than traditional models like Isolation Forest.
+This project applies Reinforcement Learning (RL) to anomaly detection in industrial for machine overheat.
+Using the AI4I 2020 Predictive Maintenance Dataset, the goal is to detect  machine over heat befoehand more effectively than traditional models like Isolation Forest.
 
 Dataset
 
